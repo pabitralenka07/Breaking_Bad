@@ -41,7 +41,6 @@ This project recreates the iconic **[Br]eaking [Ba]d** intro sequence using pure
 ```bash
 Breaking_Bad/
 ├── index.html       # Primary entrypoint (optimized for Vercel & static hosting)
-├── st.html          # Standalone source HTML
 ├── st.css           # Styling, design tokens, smoke animations & 3D perspectives
 ├── st.js            # Scroll-Btween engine, 3D physics tweener & audio handling
 ├── .gitignore       # Git ignore rules for system artifacts
